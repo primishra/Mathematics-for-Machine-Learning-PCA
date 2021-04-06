@@ -1,1 +1,1 @@
-# Mathematics-for-Machine-Learning-PCA
+## Mathematics for Machine Learning: Principal Component Analysis (PCA)
