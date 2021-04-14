@@ -7,4 +7,7 @@
 ---
 
 - Definite symmetric matrix - [https://en.wikipedia.org/wiki/Definite_symmetric_matrix](https://en.wikipedia.org/wiki/Definite_symmetric_matrix)
+-
+- Orthogonal complement - [https://en.wikipedia.org/wiki/Orthogonal_complement](https://en.wikipedia.org/wiki/Orthogonal_complement)
+- Orthogonal Decomposition - [https://mathworld.wolfram.com/OrthogonalDecomposition.html](https://mathworld.wolfram.com/OrthogonalDecomposition.html)
 - 
