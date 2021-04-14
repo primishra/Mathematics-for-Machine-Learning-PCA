@@ -6,8 +6,13 @@
 
 ---
 
+- Youtube playlist - [https://www.youtube.com/playlist?list=PL93aLKqThq4iDbY_wxfh3WgxkkzqH4aoo](https://www.youtube.com/playlist?list=PL93aLKqThq4iDbY_wxfh3WgxkkzqH4aoo)
+
+- PCA - [https://ucilnica.fri.uni-lj.si/pluginfile.php/892/course/section/510/bishop-pca.pdf](https://ucilnica.fri.uni-lj.si/pluginfile.php/892/course/section/510/bishop-pca.pdf)
+
 - Definite symmetric matrix - [https://en.wikipedia.org/wiki/Definite_symmetric_matrix](https://en.wikipedia.org/wiki/Definite_symmetric_matrix)
--
+- Inner Product - [https://users.math.msu.edu/users/gnagy/teaching/05-fall/Math20F/w9-F.pdf](https://users.math.msu.edu/users/gnagy/teaching/05-fall/Math20F/w9-F.pdf)
+- Orthogonal Projection - [https://textbooks.math.gatech.edu/ila/projections.html](https://textbooks.math.gatech.edu/ila/projections.html)
 - Orthogonal complement - [https://en.wikipedia.org/wiki/Orthogonal_complement](https://en.wikipedia.org/wiki/Orthogonal_complement)
 - Orthogonal Decomposition - [https://mathworld.wolfram.com/OrthogonalDecomposition.html](https://mathworld.wolfram.com/OrthogonalDecomposition.html)
 - 
