@@ -15,4 +15,4 @@
 - Orthogonal Projection - [https://textbooks.math.gatech.edu/ila/projections.html](https://textbooks.math.gatech.edu/ila/projections.html)
 - Orthogonal complement - [https://en.wikipedia.org/wiki/Orthogonal_complement](https://en.wikipedia.org/wiki/Orthogonal_complement)
 - Orthogonal Decomposition - [https://mathworld.wolfram.com/OrthogonalDecomposition.html](https://mathworld.wolfram.com/OrthogonalDecomposition.html)
-- 
+- Lagrange multiplier - [https://en.wikipedia.org/wiki/Lagrange_multiplier](https://en.wikipedia.org/wiki/Lagrange_multiplier)
